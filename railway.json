@@ -3,6 +3,6 @@
     "env": {}
   },
   "deploy": {
-    "startCommand": "/opt/keycloak/bin/kc.sh start"
+    "startCommand": "/opt/keycloak/bin/kc.sh start-dev"
   }
 }
